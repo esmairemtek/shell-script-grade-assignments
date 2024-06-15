@@ -1,3 +1,4 @@
+# shell-script-grade-assignments
 This shell  script  grades the shell script assignments  of students.  The assumptions and requirements are as follows: 
 - ### The arguments  passed should be in the following format  for the script to be able to run properly: 
 
